@@ -20,5 +20,5 @@
 <p data-start="1708" data-end="1939">External research can be added as indexed notes after its claims have been tested against the project. This reduces repeated investigation and gives both agents a shared body of evidence against which new designs can be challenged.</p>
 <h3 data-section-id="1ptk521" data-start="1941" data-end="1955">Automation</h3>
 <p data-start="1957" data-end="2165">Dead-drop checks can also be scheduled while the agents are otherwise idle. The important rule remains the same: the notice is only a zero-data wake-up flag; the actual message always lives in <code data-start="2150" data-end="2164">agentchat.md</code>.</p>
-<p data-start="2167" data-end="2369" data-is-last-node="" data-is-only-node="">That version says the same thing while making the <strong data-start="2217" data-end="2240">zero-data invariant</strong>, antagonistic review, grudge mechanism, and manuals feel like deliberate architecture rather than accumulated workflow folklore.<br /><br /><strong>IMPORTANT NOTE</strong></p>
+
 <p>Obviously use github, limit folder access, by downloading this you accept all responsibility if this rm -rf's everything.<br /><br /></p>
